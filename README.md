@@ -1,16 +1,4 @@
-<<<<<<< HEAD
-Meu site/Curriculo/blogg
-=======
-<<<<<<< HEAD
-Meu site/Curriculo/blogg
-=======
-<<<<<<< HEAD
-Meu site/Curriculo/blogg
-=======
-<<<<<<< HEAD
-# portfolio
-Meu site
-=======
+
 # Meu Portifólio
 >>>>>>> 85af907 (Primeiro commit: adicionando meu site)
 >>>>>>> f080b5e (Adicionando os arquivos na origin)
